@@ -1,0 +1,7 @@
+{
+    "oauth_token": "PASTE_TOKEN_HERE",
+    "bot_name": "BOT_ACCOUNT_NAME_HERE",
+    "client_id": "APP_CLIENT_ID_HERE",
+    "prefix": "CHAT_PREFIX_HERE",
+    "initial_channels": ["CHANNELS TO JOIN", "ON BOT STARTUP"]
+}
